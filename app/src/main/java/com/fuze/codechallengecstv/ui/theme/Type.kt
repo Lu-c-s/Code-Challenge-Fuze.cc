@@ -9,10 +9,10 @@ import androidx.compose.ui.unit.sp
 import com.fuze.codechallengecstv.R
 
 val Roboto = FontFamily(
-    Font(R.font.RobotoRegular, FontWeight.Normal),
-    Font(R.font.RobotoMedium, FontWeight.Medium),
-    Font(R.font.RobotoSemiBold, FontWeight.SemiBold),
-    Font(R.font.RobotoBold, FontWeight.Bold)
+    Font(R.font.roboto_regular, FontWeight.Normal),
+    Font(R.font.roboto_medium, FontWeight.Medium),
+    Font(R.font.roboto_semibold, FontWeight.SemiBold),
+    Font(R.font.roboto_bold, FontWeight.Bold)
 )
 
 val Typography = Typography(
