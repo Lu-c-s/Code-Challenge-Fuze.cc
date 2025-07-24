@@ -11,7 +11,8 @@ activityCompose = "1.10.1"
 composeBom =  "2025.07.00"
 room_version = "2.7.2"
 retrofit_version = "3.0.0"
-coil_version = "3.3.0"
+#noinspection GradleDependency
+coil_version = "3.0.0"
 gson_version = "2.13.1"
 #noinspection GradleDependency
 ksp = "2.0.21-1.0.28"
