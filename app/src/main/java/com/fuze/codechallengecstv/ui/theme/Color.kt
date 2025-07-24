@@ -3,7 +3,7 @@ package com.fuze.codechallengecstv.ui.theme
 import androidx.compose.ui.graphics.Color
 
 // --- Shared Colors ---
-val AccentRed = Color(0xFFEA7C69)
+val AccentRed = Color(0XFFF42A35)
 val TextWhite = Color(0xFFFFFFFF)
 
 // --- Dark Theme Colors ---
